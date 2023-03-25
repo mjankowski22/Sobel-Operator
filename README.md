@@ -2,7 +2,7 @@
 
 A Sobel operator working on 24-bit bmp files.
 
-Examples of how the programs works can be seen below:
+Example of how the programs works can be seen below:
 
 
 
